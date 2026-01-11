@@ -200,8 +200,8 @@
 .table-row-cell {
     -fx-background-color: #FFFFFF;
     -fx-border-color: transparent;
-    -fx-padding: 8px 0;
-    -fx-cell-size: 50px;
+    -fx-padding: 0;
+    -fx-cell-size: 55px;
 }
 
 .table-row-cell:odd {
@@ -218,14 +218,14 @@
 }
 
 .table-cell {
-    -fx-padding: 8px 12px;
+    -fx-padding: 16px;
     -fx-text-fill: #000000;
     -fx-font-size: 14px;
     -fx-alignment: center-left;
 }
 
 .table-row-cell .table-cell {
-    -fx-padding: 8px 12px;
+    -fx-padding: 16px;
 }
 
 /* ============================================
