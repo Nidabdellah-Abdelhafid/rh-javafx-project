@@ -78,3 +78,10 @@ out/
 
 # Logs
 logs/
+
+# Docker environment files (contains passwords)
+.env
+docker-compose.override.yml
+
+# Docker volumes
+mysql_data/
